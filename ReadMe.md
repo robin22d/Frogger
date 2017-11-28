@@ -2,6 +2,10 @@
 
 The aim of the game is to get the frog across the screen without being hit by any of the cars or drowning in the water. 
 
+# Running Project
+
+Clone the project and run index.html
+
 # Controls
 
 ## Start game 
